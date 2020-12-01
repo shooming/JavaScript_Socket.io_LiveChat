@@ -1,0 +1,23 @@
+{
+  "name": "live_chat",
+  "version": "1.0.0",
+  "description": "Used by Socket.io and make LiveChat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shooming/JavaScript_Socket.io_LiveChat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shooming/JavaScript_Socket.io_LiveChat/issues"
+  },
+  "homepage": "https://github.com/shooming/JavaScript_Socket.io_LiveChat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  }
+}
