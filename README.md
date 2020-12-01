@@ -9,4 +9,4 @@ Socket.io를 활용한 livechat 만들기 연습니다
 서버 콘솔 부분 
 
 >참조 블로그
->![근둥블로그](https://geundung.dev/)
+>[근둥블로그](https://geundung.dev/)
